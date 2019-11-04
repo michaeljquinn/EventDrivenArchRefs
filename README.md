@@ -1,11 +1,12 @@
 # Event Processing and Distributed Computing
 
-
-Need a simple table
-
 | Subject Area        | Name           | Link  | Summary|
 | ------------- |:-------------| -----| --------|
-| Data Consensus Algorithms   | | | |
+| Books | | | |
+| | Designing Distrubuted Systems (O'Reilly)| | |
+| | | |
+| | | |
+|Data Consensus Algorithms   | | | |
 | | Raft | [Explanation](https://raft.github.io/)| |
 | |      | [Visualization](http://thesecretlivesofdata.com/ ) ||
 | |      | [a Raft paper](https://raft.github.io/raft.pdf)| |
@@ -27,10 +28,18 @@ Need a simple table
 | |Scatter/Gather | | |
 | |Work Queue | | |
 | |Work Queue | | |
-
-
-
-
+| | | | 
+|Useful Refs & Blog Entries| |
+| | Distributed Tracing with Kafka|[Distributed Systems Tracing](https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger) |Very interesting article using a couple of open source components - Jaeger and Open Tracing|
+| | Github repo for above|[Jaeger Tracing](https://github.com/burkaa01/jaeger-tracing-kafka-sender)||
+| | Event Based banking simulation | [Bank Simulation](https://www.confluent.de/blog/author/gerard-klijs/)| |
+|Kafka & Confluent Training| | | |
+| | Confluent Tutorials | [Confluent Training](https://www.confluent.io/blog/announcing-apache-kafka-tutorials)| | 
+| | | |
+| | | |
+|Good Authors/Bloggers etc | | |
+| |Gerard Klijs | https://www.confluent.de/blog/author/gerard-klijs/| Cool tracing articles|
+| | Tim Bergland| Confluent dude and podcaster||
 
 
 
