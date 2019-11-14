@@ -15,7 +15,7 @@
 | |       |     [High Level View](https://understandingpaxos.wordpress.com/    )| Smart guy|
 | Principles | | | |
 | | CAP (Consistency, Availability, Partitioning)|||
-|||[Dzone](https://dzone.com/articles/understanding-the-cap-theorem) | Nice Dzone article|
+| | | [Dzone](https://dzone.com/articles/understanding-the-cap-theorem) | Nice Dzone article|
 | | | [After 12 years of CAP](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)|good discussion on latency, newtworks, compensation  etc... |
 | | | [Distributed systems in microservices](https://blog.kloia.com/distributed-computing-in-microservices-cap-theorem-253c16017a99)|Pretty comprehensive description|
 | | ACID| | |
